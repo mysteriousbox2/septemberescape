@@ -1,0 +1,13 @@
+{
+"companyName": "MysteriousBox",
+"productName": "9月の脱出ゲーム",
+"dataUrl": "septemberescape.data.unityweb",
+"wasmCodeUrl": "septemberescape.wasm.code.unityweb",
+"wasmFrameworkUrl": "septemberescape.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
